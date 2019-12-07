@@ -1,0 +1,28 @@
+body {
+    background: url("../images/prism.png");
+    background-repeat: repeat;
+    z-index: -2;
+
+}
+
+.navbar navbar-expand-lg navbar-dark bg-dark{
+    border-bottom-style: solid;
+    border-color: darkorange;
+    background-color: 
+}
+
+.container {
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    width: 960px;
+    background-color: lightslategray;
+    margin: 0 auto;
+}
+
+
+#subheader {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:  rgb(71, 81, 90);
+    padding: 15px 15px;
+}

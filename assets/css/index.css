@@ -1,0 +1,15 @@
+#bioPic {
+    transform: rotate(90deg);
+    height: 30%;
+    width: 90%;
+    _padding: 20px;
+
+} 
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: block;
+
+
+}
