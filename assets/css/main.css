@@ -2,13 +2,12 @@ body {
     background: url("../images/prism.png");
     background-repeat: repeat;
     z-index: -2;
-
 }
 
-.navbar navbar-expand-lg navbar-dark bg-dark{
+.navbar navbar-expand-lg navbar-dark bg-dark {
     border-bottom-style: solid;
     border-color: darkorange;
-    background-color: 
+    background-color:
 }
 
 .container {
@@ -20,17 +19,14 @@ body {
     margin: 0 auto;
 }
 
-
 #subheader {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color:  rgb(71, 81, 90);
+    color: rgb(71, 81, 90);
     padding: 15px 15px;
 }
-
 
 #footer {
     text-align: center;
     position: fixed;
     bottom: -1px;
-
 }
