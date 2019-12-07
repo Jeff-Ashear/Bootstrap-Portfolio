@@ -26,3 +26,11 @@ body {
     color:  rgb(71, 81, 90);
     padding: 15px 15px;
 }
+
+
+#footer {
+    text-align: center;
+    position: fixed;
+    bottom: -1px;
+
+}
