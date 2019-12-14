@@ -4,10 +4,10 @@ body {
     z-index: -2;
 }
 
-.navbar navbar-expand-lg navbar-dark bg-dark {
+.navbar .navbar-expand-lg navbar-dark bg-dark {
     border-bottom-style: solid;
     border-color: darkorange;
-    background-color:
+    background-color: lightslategray;
 }
 
 .container {

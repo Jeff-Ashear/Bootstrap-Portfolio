@@ -1,15 +1,24 @@
 #bioPic {
     transform: rotate(90deg);
-    height: 30%;
-    width: 100%;
-    _padding: 20px;
+    margin: 0 10px 0 0;
+}
 
-} 
 
-.clearfix::after {
+/* .clearfix::after {
     content: "";
     clear: both;
     display: block;
+} */
 
+.bodyText {
+    background-color: blue;
+}
 
+#extraDark {
+    color: red;
+    background-color: black;
+}
+
+#column3 {
+    background-color: White;
 }
