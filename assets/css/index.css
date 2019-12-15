@@ -14,6 +14,10 @@
     background-color: blue;
 }
 
+#column1 {
+    background-color: green;
+}
+
 #extraDark {
     color: red;
     background-color: black;
