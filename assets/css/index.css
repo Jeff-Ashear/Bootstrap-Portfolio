@@ -1,9 +1,3 @@
-#bioPic {
-    transform: rotate(90deg);
-    margin: 0 10px 0 0;
-}
-
-
 /* .clearfix::after {
     content: "";
     clear: both;
@@ -12,17 +6,4 @@
 
 .bodyText {
     background-color: blue;
-}
-
-#column1 {
-    background-color: green;
-}
-
-#extraDark {
-    color: red;
-    background-color: black;
-}
-
-#column3 {
-    background-color: White;
 }
